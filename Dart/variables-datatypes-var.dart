@@ -38,6 +38,5 @@ void main() {
   Name = 21;
   Name = true; // Now if at first var is not declaired then further on it can be overidden with any data type value
   print(Name);
-  
   // NOTE : In Dart, if you declare a variable using var without assigning it a value immediately, its type is inferred as dynamic.
 }
